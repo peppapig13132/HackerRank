@@ -26,7 +26,7 @@ A university has started a student-advisor plan which assigns a professor as an 
 **student_information**
 
 | roll_number | name | advisor |
-| :-: | :-: | :- |
+| :-: | :- | :-: |
 | 1 | Robert | 2 |
 | 2 | Claire | 1 |
 | 3 | Kimmy | 2 |
@@ -34,7 +34,7 @@ A university has started a student-advisor plan which assigns a professor as an 
 **faculty_information**
 
 | employee_ID | gender | salary |
-| :-: | :-: | :- |
+| :-: | :-: | -: |
 | 1 | M | 21000 |
 | 2 | F | 18000 |
 
