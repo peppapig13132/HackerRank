@@ -1,7 +1,5 @@
 # Student-advisor plan
 A university has started a student-advisor plan which assigns a professor as an advisor to each student for academic guidance. Write a query to find the roll number and names of students who either have a male advisor with  a salary of more than 15000 or a female advisor with a salary of more than 20000.
-student_information: roll_number, name, advisor
-faculty_information: employee_ID, gender, salary
 
 ## Schema:
 
